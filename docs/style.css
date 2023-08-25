@@ -15,9 +15,9 @@ font-family: Arial Black, Helvetica, sans-serif;
 }
 
 .intro__tag {
-  background: #AA6C7E;
+  background: #F76531;
   color: white;
-    font-family: Arial Black, Helvetica, sans-serif;
+  font-family: Arial Black, Helvetica, sans-serif;
   padding: 0.5em;
   position: fixed;
   right: 0;
@@ -26,17 +26,14 @@ font-family: Arial Black, Helvetica, sans-serif;
   }
   
   .main__banner {
-  width: 100%;
   text-align: center;
   }
   
   .main__banner img {
     width: 80%;
   }
-
   
 .bottom__banner {
-width: 100%;
 text-align: center;
 }
 
