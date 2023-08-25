@@ -1,0 +1,45 @@
+body {
+  background-color: #4EA9D1;
+font-family: Arial Black, Helvetica, sans-serif;
+}
+
+.center__containr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center__contnt {
+  max-width: 960px;
+  width: 100%;
+}
+
+.intro__tag {
+  background: #AA6C7E;
+  color: white;
+    font-family: Arial Black, Helvetica, sans-serif;
+  padding: 0.5em;
+  position: fixed;
+  right: 0;
+  top:  0;
+  z-index: 1;
+  }
+  
+  .main__banner {
+  width: 100%;
+  text-align: center;
+  }
+  
+  .main__banner img {
+    width: 80%;
+  }
+
+  
+.bottom__banner {
+width: 100%;
+text-align: center;
+}
+
+.bottom__banner img {
+  width: 50%;
+}
