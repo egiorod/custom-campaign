@@ -30,7 +30,7 @@ font-family: Arial Black, Helvetica, sans-serif;
   }
   
   .main__banner img {
-    width: 80%;
+    width: 75%;
   }
   
 .bottom__banner {
@@ -38,5 +38,6 @@ text-align: center;
 }
 
 .bottom__banner img {
-  width: 50%;
+  padding: 5%;
+  width: 33%;
 }
